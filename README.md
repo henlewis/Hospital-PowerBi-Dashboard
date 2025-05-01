@@ -1,37 +1,36 @@
 # Hospital Performance Analytics Dashboard
 
 ## 📌 Overview  
-Built a Power BI analytics platform to analyze hospital operations, patient satisfaction, and demographic trends across 7 cities in the UK and Ireland. Based on 15,000+ patient records, the solution supports hospital leadership with interactive dashboards for data-driven decision-making.  
-**Data Quality Improvement:** +87%
+Built a Power BI analytics platform to explore hospital operations, patient satisfaction, and demographic trends across multiple UK and Ireland cities. The solution supports healthcare leadership through interactive dashboards that enable informed, data-driven decisions.
 
 ## 🛠️ Features  
 - **Department Analytics:**  
-  - Visit volumes and satisfaction score breakdowns  
-  - Specialty-level performance insights  
+  - Satisfaction score breakdowns by specialty  
+  - Visit volume trends and performance comparisons  
 
 - **Geographic Insights:**  
-  - City and country-level comparisons  
-  - Satisfaction trends by location  
+  - City and country-level satisfaction visualizations  
+  - Regional patterns in care delivery  
 
 - **Patient Demographics:**  
-  - Age, insurance, and marital status trends  
-  - Coverage gaps and profession-based insights  
+  - Analysis by age, insurance type, and marital status  
+  - Identification of coverage gaps and trends  
 
 ## 🔧 Data Pipeline  
-- Cleaned 2,300+ incomplete entries  
-- Standardized department names and normalized scores  
-- Created calculated columns (e.g., efficiency scores, trend metrics)  
-- Modeled relationships across 23 tables using Power Query and DAX  
+- Cleaned and standardized patient records  
+- Transformed and categorized key variables  
+- Built a robust data model with relationships across multiple tables  
+- Developed calculated metrics using Power Query and DAX  
 
 ## 📊 Insights  
-- Psychiatry has highest visit volume but scores below-average satisfaction (3.02 vs 3.15 avg)  
-- Private insurance patients report up to 22% higher satisfaction  
-- Clear regional trends in visit frequency and care quality  
+- Identified disparities in satisfaction across departments and insurance types  
+- Uncovered regional trends in visit frequency and care quality  
+- Revealed connections between demographics and patient experiences  
 
 ## 🛠️ Tools Used  
-Power BI, Power Query Editor, DAX, conditional formatting, geospatial mapping, bookmark navigation  
+Power BI, Power Query Editor, DAX, conditional formatting, bookmark navigation  
 
 ## 💡 What We Learned  
-- Strengthened skills in data modeling, visualization, and dashboard design  
-- Applied advanced DAX techniques for KPIs and trends  
-- Learned how to communicate complex operational metrics clearly to non-technical stakeholders  
+- Strengthened skills in data modeling, visualization, and storytelling  
+- Gained experience building decision-support tools for real-world contexts  
+- Improved communication of insights to non-technical audiences  
