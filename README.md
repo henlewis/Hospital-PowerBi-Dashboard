@@ -30,7 +30,7 @@ Built a Power BI analytics platform to explore hospital operations, patient sati
 ## 🛠️ Tools Used  
 Power BI, Power Query Editor, DAX, conditional formatting, bookmark navigation  
 
-## 💡 What We Learned  
+## 💡 What I Learned  
 - Strengthened skills in data modeling, visualization, and storytelling  
 - Gained experience building decision-support tools for real-world contexts  
 - Improved communication of insights to non-technical audiences  
